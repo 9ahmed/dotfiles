@@ -1,0 +1,3 @@
+[submodule ".config/.config/ncmpcpp/ncmpcpp-ueberzug"]
+	path = .config/.config/ncmpcpp/ncmpcpp-ueberzug
+	url = https://github.com/alnj/ncmpcpp-ueberzug
